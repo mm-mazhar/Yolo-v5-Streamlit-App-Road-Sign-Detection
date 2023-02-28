@@ -31,4 +31,4 @@ Error handling:
 - `python.exe -m pip install -r requirements.txt --user`
 
 #### Click Here To Watch The Video
-[![asciicast](https://i.imgur.com/wv8sS6z.jpg)](https://youtu.be/wrinayRJMbk)
+[![asciicast](https://i.imgur.com/wv8sS6z.jpg)](https://youtu.be/l0yEcua5HEw)
